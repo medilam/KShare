@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/logo">
+        <file alias="logo">resources/keyshare_logo.png</file>
+        <file alias="logo_s">resources/keyshare_logo_s.png</file>
+        <file alias="logo_pivot">resources/keyshare_logo_pivot.png</file>
+        <file alias="logo_st">resources/logo_st.png</file>
+    </qresource>
+    <qresource prefix="/lang">
+        <file alias="language_fr.qm">lang/language_fr.qm</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="file">resources/file_icon.png</file>
+        <file alias="document-open">resources/document-open.png</file>
+        <file alias="upload">resources/upload.png</file>
+    </qresource>
+</RCC>
